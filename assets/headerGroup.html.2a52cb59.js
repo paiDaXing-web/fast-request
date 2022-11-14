@@ -1,0 +1,5 @@
+import{_ as a}from"./headerSwitch.97d5dec8.js";import{_ as n}from"./_plugin-vue_export-helper.cdc0426e.js";import{o,c as s,a as e,d as t,b as d,r as i}from"./app.e6482b3c.js";const c={},h=e("h1",{id:"headers-group",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#headers-group","aria-hidden":"true"},"#"),t(" Headers group")],-1),l=e("div",{class:"language-text","data-ext":"text"},[e("pre",{class:"language-text"},[e("code",null,`Scenes:Multi-module projects such as SpringBoot have different header parameters in different projects and different environments. In order to quickly switch headers, header grouping is introduced.
+Operation method：
+1.Modify in the headers group, constraint: the input value must be in standard json format
+2.Switch the environment or project name directly, and then enter the corresponding key and value values in the headers form
+`)])],-1),u=e("p",null,[e("img",{src:a,alt:"headerSwitch",loading:"lazy"})],-1);function p(m,_){const r=i("Badge");return o(),s("div",null,[h,e("p",null,[t("Version Required: "),d(r,{text:"2.0.7"})]),l,u])}const x=n(c,[["render",p],["__file","headerGroup.html.vue"]]);export{x as default};

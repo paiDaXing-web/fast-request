@@ -1,0 +1,1 @@
+const s="/fast-request/img/icon/array.svg",t="/fast-request/img/icon/object.svg",o="/fast-request/img/icon/number.svg",i="/fast-request/img/icon/string.svg",e="/fast-request/img/icon/boolean.svg",r="/fast-request/img/icon/file.svg";export{s as _,t as a,o as b,i as c,e as d,r as e};
